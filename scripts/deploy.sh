@@ -4,6 +4,7 @@
 cd /home/ec2-user/react-app
 
 # Install dependencies
+# Checking Commit
 npm install
 
 # Build the React app
