@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Exit on any error
+#Test Build
 set -e
 
 # Navigate to the app folder
